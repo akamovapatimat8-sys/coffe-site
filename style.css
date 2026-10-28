@@ -206,3 +206,6 @@ footer p {
     object-fit: cover;
     border-radius: 8px;
 }
+.button:active {
+    transform: scale(0.97);
+}
